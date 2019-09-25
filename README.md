@@ -32,6 +32,7 @@ I have attached some methods to the prototype:
  - yarn test --coverage
  - Babel helps us transpile es6 to es5
  - yarn add -D  mockdate 
- ### Screenshot of my running app
+ 
+ ### Screenshot of my running app:
  
  ![image](https://user-images.githubusercontent.com/50555113/65641724-6ebe9780-dfe5-11e9-9a7c-70d438562d31.png)
