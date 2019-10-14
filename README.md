@@ -27,11 +27,8 @@ I have attached some methods to the prototype:
 
 
 ### Environment setup:
- - yarn init -y
- - yarn add jest
+ - yarn
  - yarn test --coverage
- - Babel helps us transpile es6 to es5
- - yarn add -D  mockdate 
  
  ### Screenshot of my running app:
  
